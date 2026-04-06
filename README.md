@@ -124,7 +124,6 @@
   <b>🚀 Full Stack (MERN) Development</b> — Building scalable, responsive web applications with React, Node.js, Express, and MongoDB, focusing on clean UI/UX and efficient backend architecture<br>
   <b>🧩 Backend Engineering & APIs</b> — Designing RESTful APIs, handling authentication, and integrating real-world features like payment gateways and secure user flows<br>
   <b>🗄️ Databases & Data Handling</b> — Working with MongoDB & SQL to design optimized schemas, manage data efficiently, and ensure performance<br>
-  <b>🤖 AI / Machine Learning</b> — Exploring intelligent systems and integrating AI-driven features into modern web applications<br>
   <b>📊 Data & Business Analysis</b> — Transforming raw data into meaningful insights to support better decision-making<br>
   <b>💡 C++ / DSA & Problem Solving</b> — Strengthening core logic with efficient algorithms, recursion, and real-world coding patterns<br>
 </div>
@@ -152,17 +151,6 @@
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
 <!-- Project 1 -->
-<div align="left">
-  <h3>Museum Ticketing System 🏛️🎟️</h3>
-  <p>
-    A full-stack web application built using PHP, MySQL, and modern UI design.  
-    Features user authentication, ticket booking, payment gateway integration, and chatbot support.  
-    Handling users, transactions, and real-world workflows in one system 🚀.
-  </p>
-  <a href="YOUR_MUSEUM_LINK" target="_blank">Explore Project 🎫</a>
-</div>
-
-<!-- Project 2 -->
 <div align="right">
   <h3>Personal Portfolio 💻✨</h3>
   <p>
@@ -170,7 +158,18 @@
     Showcases projects, skills, and contact integration with clean UI/UX and smooth performance.  
     Looks clean… until you inspect the console 😏.
   </p>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">Visit Portfolio 🚀</a>
+  <a href="https://simonasingh-portfolio.netlify.app/" target="_blank">Visit Portfolio 🚀</a>
+</div>
+
+<!-- Project 2 -->
+<div align="left">
+  <h3>MuseBook 🏛️🎟️</h3>
+  <p>
+    A full-stack web application built using PHP, MySQL, and modern UI design.  
+    Features user authentication, ticket booking, payment gateway integration, and chatbot support.  
+    Handling users, transactions, and real-world workflows in one system 🚀.
+  </p>
+  <a href="https://github.com/simonasingh22/MuseBook" target="_blank">Explore Project 🎫</a>
 </div>
 
 <!-- Project 3 -->
@@ -181,18 +180,7 @@
     Focuses on productivity optimization, scheduling logic, and user-friendly interface design.  
     Basically trying to manage time better than I manage my sleep 😴⚡.
   </p>
-  <a href="YOUR_SCHEDULER_LINK" target="_blank">Try Scheduler ⏳</a>
-</div>
-
-<!-- Project 4 -->
-<div align="left">
-  <h3>MarketMinds 📊💡</h3>
-  <p>
-    A data-driven platform focused on analyzing market trends and generating insights.  
-    Combines analytics, visualization, and decision-making support for smarter business strategies.  
-    Turning data into decisions (and sometimes confusion 😅).
-  </p>
-  <a href="YOUR_MARKETMINDS_LINK" target="_blank">View Insights 📈</a>
+  <a href="https://github.com/simonasingh22/Smart_task_schedular" target="_blank">Try Scheduler ⏳</a>
 </div>
 
 <!-- Project 5 -->
@@ -203,7 +191,7 @@
     Built using JavaScript for dynamic task handling and persistence.  
     Helping me stay productive… occasionally 😶.
   </p>
-  <a href="YOUR_TODO_LINK" target="_blank">Try It Out ⚡</a>
+  <a href="https://github.com/simonasingh22/Virtual-Internship-Projects/tree/main/To%20do%20list" target="_blank">Try It Out ⚡</a>
 </div>
 </div>
 
