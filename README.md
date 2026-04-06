@@ -24,7 +24,7 @@
 <div>
 
 <b><i>Let me introduce myself, your honor...</i></b><br>
-<b><i>So yeah, it's me, Palak Sapra 😭</i></b><br><br>
+<b><i>So yeah, it's me, Simona Singh 💻</i></b><br><br>
 
 <b><i>Welcome to my GitHub where dreams go to get 404’d.</i></b><br>
 <b><i>I write code that works once and then ghosts me forever.</i></b><br><br>
@@ -50,19 +50,19 @@
 <b><i>Here’s how you can reach the <s>perfectly put-together</s> <s>low-maintenance</s> human behind the chaos:</i></b><br><br>
 <br>
 <p align="center">
-  <a href="mailto:saprapalak69@gmail.com">
+  <a href="mailto:singhmona3552@gmail.com">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/accc89a7-402b-4769-bc64-504de1f4a196" />
   </a>
-  <a href="https://www.linkedin.com/in/palak-sapra08/">
+  <a href="https://www.linkedin.com/in/simona-singh/">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67701f6e-7fe7-4614-8b65-3884da8ed1f3" />
   </a>
-  <a href="https://github.com/Palak_Sapra05">
+  <a href="https://github.com/simonasingh22">
     <img width="50" height="50" alt="image" src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.hackerrank.com/Palak_12326835">
+  <a href="https://www.hackerrank.com/profile/12306331Simona">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f3e0bb5f-6f80-44a3-8acc-93073af5a1e7" />
   </a>
-  <a href="https://leetcode.com/saprapalak69/">
+  <a href="https://leetcode.com/u/SimonaSingh/">
     <img width="50" height="" alt="image" src="https://github.com/user-attachments/assets/b5bbbafc-5929-424a-9583-40a2d8502217" />
   </a>
 </p>
@@ -82,15 +82,14 @@
 <div >
   <!-- text on the right -->
   <div>
-    <b><i>What my brain is currently trained on:</i></b><br><br>
-    - B.Tech in Computer Science — learning to think logically while emotionally debugging life (^‿^)<br>
-    - Full Stack Development — turning uncooperative data into insights that pretend to behave (ಠ‿ಠ)<br>
-    - Predictive & Business Analytics — forecasting outcomes and translating numbers into decisions adults understand (ʘ‿ʘ)<br>
-    - AI / ML / Neural Networks — teaching machines patterns while questioning my own (ᕙ(⇀‸↼‶)ᕗ)<br>
-    - SQL & Informatica — building ETL pipelines and interrogating databases professionally (⌐■_■)<br>
-    - Python + Java + DSA — solid fundamentals, minimal drama, maximum emotional support (•_•)<br>
+  <b><i>What my brain is trained on:</i></b><br><br>
+  - B.Tech in Computer Science — building strong problem-solving skills and logical thinking with real-world application 🚀<br>
+  - Full Stack Development — creating responsive, user-centric web applications using modern technologies 💻<br>
+  - Data Analytics & Visualization — transforming raw data into meaningful insights and business decisions 📊<br>
+  - SQL & Database Management — designing efficient queries and handling structured data effectively 🗄️<br>
+  - C++ & DSA — strengthening core programming concepts and mastering data structures for problem-solving 🧠
 
-  </div>
+</div>
 
 </div>
 <br>
@@ -121,13 +120,14 @@
 <div>
 
 <b><i>Currently focused on:</i></b><br><br>
-
-<b><i>🙂 Mern Stack</i></b> — Building full-stack applications and transforming raw data into actionable insights<br>
-<b><i>😊 AI / Machine Learning / Neural Networks</i></b> — teaching models patterns I barely understand<br>
-<b><i>🙂 SQL & Databases</i></b> — asking tables the right questions (eventually)<br>
-<b><i>😌 Business Analysis</i></b> — making sure insights don’t die in a slide deck<br>
-<b><i>🙂 Python</i></b> — the glue holding all of this together<br>
-<b><i>😄 CPP & DSA</i></b> — Strong foundation in algorithms, problem-solving, and optimized coding<br>
+<div>
+  <b>🚀 Full Stack (MERN) Development</b> — Building scalable, responsive web applications with React, Node.js, Express, and MongoDB, focusing on clean UI/UX and efficient backend architecture<br>
+  <b>🧩 Backend Engineering & APIs</b> — Designing RESTful APIs, handling authentication, and integrating real-world features like payment gateways and secure user flows<br>
+  <b>🗄️ Databases & Data Handling</b> — Working with MongoDB & SQL to design optimized schemas, manage data efficiently, and ensure performance<br>
+  <b>🤖 AI / Machine Learning</b> — Exploring intelligent systems and integrating AI-driven features into modern web applications<br>
+  <b>📊 Data & Business Analysis</b> — Transforming raw data into meaningful insights to support better decision-making<br>
+  <b>💡 C++ / DSA & Problem Solving</b> — Strengthening core logic with efficient algorithms, recursion, and real-world coding patterns<br>
+</div>
 
 </div>
 <br>
@@ -147,54 +147,63 @@
 <br>
 <div align="left">
 
-<b><i>Projects that somehow work (and occasionally don’t) 😵‍💫💥</i></b><br><br>
+<b><i>Projects that actually work (most of the time) 😵‍💫💥</i></b><br><br>
 
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
 <!-- Project 1 -->
 <div align="left">
-  <h3>EcoDrive 🌱🚗</h3>
+  <h3>Museum Ticketing System 🏛️🎟️</h3>
   <p>
-    Built using HTML, CSS, and PHP to promote eco-friendly driving habits.  
-    Tracks fuel efficiency, estimates carbon emissions, and encourages smarter travel decisions.  
-    Saving the planet... one buggy feature at a time 🌍😅.
+    A full-stack web application built using PHP, MySQL, and modern UI design.  
+    Features user authentication, ticket booking, payment gateway integration, and chatbot support.  
+    Handling users, transactions, and real-world workflows in one system 🚀.
   </p>
-  <a href="YOUR_ECODRIVE_LINK" target="_blank">Explore EcoDrive 🌿</a>
+  <a href="YOUR_MUSEUM_LINK" target="_blank">Explore Project 🎫</a>
 </div>
 
 <!-- Project 2 -->
 <div align="right">
-  <h3>Virtual Art Gallery 🎨🖼️</h3>
+  <h3>Personal Portfolio 💻✨</h3>
   <p>
-    A visually interactive gallery built to showcase digital artwork in a clean UI.  
-    Focuses on frontend design, smooth navigation, and aesthetic presentation.  
-    Basically where creativity meets CSS struggles 😌✨.
+    A fully responsive portfolio built with React, Tailwind CSS, and deployed on Netlify.  
+    Showcases projects, skills, and contact integration with clean UI/UX and smooth performance.  
+    Looks clean… until you inspect the console 😏.
   </p>
-  <a href="https://vercel.com/palaks-projects-93cd4f6b/virtual-art-gallery" target="_blank">Enter Gallery 🎭</a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">Visit Portfolio 🚀</a>
 </div>
 
 <!-- Project 3 -->
-<div align="left">
-  <h3>Food Hub 🍔🍕</h3>
+<div align="right">
+  <h3>Smart Task Scheduler 🧠📅</h3>
   <p>
-    A dynamic web platform for browsing and managing food items.  
-    Built with frontend + backend integration to simulate real-world food ordering systems.  
-    Warning: may cause hunger during development 😭🍟.
+    An intelligent task management system designed to prioritize and organize tasks efficiently.  
+    Focuses on productivity optimization, scheduling logic, and user-friendly interface design.  
+    Basically trying to manage time better than I manage my sleep 😴⚡.
   </p>
-  <a href="YOUR_FOOD_HUB_LINK" target="_blank">Explore Menu 🍽️</a>
+  <a href="YOUR_SCHEDULER_LINK" target="_blank">Try Scheduler ⏳</a>
 </div>
 
 <!-- Project 4 -->
-<div align="right">
-  <h3>Personal Portfolio 💻✨</h3>
+<div align="left">
+  <h3>MarketMinds 📊💡</h3>
   <p>
-    A fully responsive portfolio website to showcase projects, skills, and achievements.  
-    Designed with modern UI/UX principles and deployed for real-world visibility.  
-    Looks professional… until you check the console 😏.
+    A data-driven platform focused on analyzing market trends and generating insights.  
+    Combines analytics, visualization, and decision-making support for smarter business strategies.  
+    Turning data into decisions (and sometimes confusion 😅).
   </p>
-  <a href="https://palak-portfolio-lyart.vercel.app/" target="_blank">Visit Portfolio 🚀</a>
+  <a href="YOUR_MARKETMINDS_LINK" target="_blank">View Insights 📈</a>
 </div>
 
+<!-- Project 5 -->
+<div align="left">
+  <h3>To-Do List App 📝✅</h3>
+  <p>
+    A task management application with interactive UI and local storage support.  
+    Built using JavaScript for dynamic task handling and persistence.  
+    Helping me stay productive… occasionally 😶.
+  </p>
+  <a href="YOUR_TODO_LINK" target="_blank">Try It Out ⚡</a>
 </div>
 </div>
 
@@ -288,7 +297,6 @@
 
 <b><i>Growing as a Data Scientist</i></b> — working with complex data to drive impact (^‿^) <br>
 <b><i>Advancing in Predictive Analytics</i></b> — building models that stay reliable over time (ʘ‿ʘ) <br>
-<b><i>Deepening AI / ML / Neural Network expertise</i></b> — focusing on understanding, not just training (ಠ‿ಠ) <br>
 <b><i>Scaling work with SQL & Databases</i></b> — handling larger and messier systems (⌐■_■) <br>
 <b><i>Strengthening Business Analytics</i></b> — aligning insights with real decisions (¬‿¬) <br>
 <b><i>Designing cleaner data pipelines</i></b> — fewer hacks, more structure (ಠ_ಠ) <br>
@@ -311,12 +319,12 @@
 
 <div align="center">
 
-<b><i>Who am I?</i></b> — Palak: professional overthinker, data whisperer, and occasional bug creator 😎💻<br>
-<b><i>What I do?</i></b> — Turn messy datasets into slightly less terrifying insights, confuse ML models for fun, and occasionally convince myself I understand statistics 🤯<br>
-<b><i>Skills & Tools:</i></b> Python, Java, SQL, Power BI, Tableau, Streamlit, Jupyter, Python libraries & frameworks… basically everything that silently judges me 👀<br>
-<b><i>Current Focus:</i></b> Pipelines, dashboards, predictive models, and surviving debugging sessions without existential crises ⚡<br>
-<b><i>Fun Fact:</i></b> Solve equations at 3 AM, question my life at 4, then write code that only works on the 47th try 😵‍💫<br>
-<b><i>Bottom Line:</i></b> Code. Chaos. Coffee. Repeat. Bugs are not a bug, they’re a feature 😏💥
+<b><i>Who am I?</i></b> — Simona Singh: full stack developer, problem solver, and occasional bug creator 😎💻<br>
+<b><i>What I do?</i></b> — Build end-to-end web applications, turn ideas into functional products, and debug code until it finally agrees with me ⚡<br>
+<b><i>Skills & Tools:</i></b> MERN Stack (MongoDB, Express, React, Node.js), Java, Python, SQL, REST APIs, Tailwind CSS, Git & GitHub — building, breaking, and fixing things efficiently 👀<br>
+<b><i>Current Focus:</i></b> Scalable full-stack applications, backend logic, authentication systems, and integrating real-world features like payments & APIs 🚀<br>
+<b><i>Fun Fact:</i></b> Debugging feels like solving a mystery — except I’m also the one who wrote the bug 🤯<br>
+<b><i>Bottom Line:</i></b> Build. Break. Debug. Repeat. Turning caffeine into clean code and ideas into reality ☕
 
 </div>
 <br>
