@@ -98,9 +98,9 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
-<br>
+<!-- <br>
 
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p> -->
 
 <br>
 <div align="center">
@@ -258,13 +258,51 @@
     width="95%" 
     alt="Phoenix's Contribution Graph" 
   />
-  <!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
-</p> -->
 </div>
 <br>
 <br>
 
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<h2 align="center">🏆 Competitive Programming Dominance</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SimonaSingh?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+
+### 🚀 Problem Solving Metrics
+
+<p align="center">
+  🔹 80+ LeetCode problems solved <br>
+  🔹 Consistent practice across Easy & Medium <br>
+  🔹 Actively improving Hard-level exposure <br>
+  🔹 Enhanced debugging speed & pattern recognition
+</p>
+
+---
+
+### 🧠 Patterns & Concepts Covered
+
+<p align="center">
+  Sliding Window • Two Pointers • Prefix Sum • Recursion & Backtracking <br>
+  Stack & Queue • Binary Search • Graph Traversals • Hashing <br>
+  Time & Space Complexity Optimization
+</p>
+
+---
+
+### 💡 How Competitive Programming Improves My Engineering
+
+<p align="center">
+  ⚡ Faster debugging under constraints <br>
+  🎯 Stronger edge-case detection <br>
+  🚀 Performance-aware backend logic <br>
+  🧩 Structured problem decomposition <br>
+  💪 Confidence in technical interviews
+</p>
+<br>
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
