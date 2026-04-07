@@ -226,7 +226,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <!-- GitHub Stats (using gh-stats-gen alternative) -->
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArshiBansal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=simonasingh22&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" 
     height="320" 
     width="400" 
     alt="GitHub Stats" 
@@ -234,7 +234,7 @@
   
   <!-- Contribution Streak (reliable demolab service) -->
   <img 
-    src="https://streak-stats.demolab.com?user=ArshiBansal&theme=aura&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=simonasingh22&theme=aura&hide_border=true" 
     height="320" 
     width="400" 
     alt="Contribution Streak" 
@@ -244,7 +244,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <!-- Top Languages (using gh-stats-gen) -->
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArshiBansal&layout=compact&langs_count=8&theme=blue-green" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simonasingh22&layout=compact&langs_count=8&theme=blue-green" 
     height="320" 
     width="400" 
     alt="Top Languages" 
@@ -254,10 +254,13 @@
 <div align="center" style="margin: 30px 0;">
   <!-- Activity Graph (still working perfectly) -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiBansal&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=simonasingh22&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" 
     width="95%" 
     alt="Phoenix's Contribution Graph" 
   />
+  <!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak3131&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+</p> -->
 </div>
 <br>
 <br>
