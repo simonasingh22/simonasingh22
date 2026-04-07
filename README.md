@@ -262,8 +262,8 @@
 <br>
 <br>
 
-<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-<br>
+<!-- <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+<br> -->
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
@@ -317,7 +317,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+To+become+a+skilled+Software+Development+Engineer+building+scalable+applications.;Always+learning,+always+improving%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+Build+efficient,+scalable+applications+as+an+SDE.;Always+evolving.%3F" 
     alt="Sarcastic Question about Future Scope" 
   />
 </div>
