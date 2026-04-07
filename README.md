@@ -264,7 +264,18 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 <br>
-<h2 align="center" style="color:#2ea44f;"><b>🏆 Competitive Programming</b></h2>
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Competitive+Programming+arc...+still+loading;Bugs+fixed:+some;Confidence:+questionable" 
+    alt="Competitive Programming Header"
+  />
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SimonaSingh?theme=dark&font=Fira%20Code&ext=contest" />
@@ -273,15 +284,15 @@
 ---
 
 <p align="center">
-  <b style="color:#2ea44f;">💻 Problem Solving Journey</b><br><br>
-  80+ LeetCode problems solved • Strong focus on Easy & Medium <br>
-  Gradually exploring Hard problems • Improving debugging & speed
+  <b style="color:#00CC88;">💻 Problem Solving Journey</b><br><br>
+  80+ problems solved on LeetCode • Living between Easy & Medium <br>
+  Occasionally visiting Hard problems • Debugging skills leveling up ⚡
 </p>
 
 ---
 
 <p align="center">
-  <b style="color:#2ea44f;">🧠 Core Concepts</b><br><br>
+  <b style="color:#3DDC97;">🧠 Core Concepts</b><br><br>
   Sliding Window • Two Pointers • Prefix Sum • Recursion <br>
   Backtracking • Stack & Queue • Binary Search <br>
   Graph Traversals • Hashing • Optimization Techniques
@@ -290,13 +301,15 @@
 ---
 
 <p align="center">
-  <b style="color:#2ea44f;">🚀 Engineering Impact</b><br><br>
-  Faster debugging under constraints ⚡ <br>
-  Better edge-case handling 🎯 <br>
-  Optimized backend thinking 🚀 <br>
-  Structured problem solving 🧩 <br>
-  Strong interview confidence 💪
+  <b style="color:#00FFA3;">🚀 Engineering Impact</b><br><br>
+  Faster debugging under pressure ⚡ <br>
+  Catching edge cases before they attack 🎯 <br>
+  Writing more efficient backend logic 🚀 <br>
+  Breaking problems before they break me 🧩 <br>
+  Slowly becoming interview-ready 💪
 </p>
+
+<br>
 <br>
 <br>
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
@@ -304,7 +317,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+To+become+a+skilled+Software+Development+Engineer+building+scalable+applications.;Always+learning,+always+improving." 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+To+become+a+skilled+Software+Development+Engineer+building+scalable+applications.;Always+learning,+always+improving%3F" 
     alt="Sarcastic Question about Future Scope" 
   />
 </div>
