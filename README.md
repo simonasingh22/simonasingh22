@@ -263,8 +263,8 @@
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
-
-<h2 align="center">🏆 Competitive Programming Dominance</h2>
+<br>
+<h2 align="center" style="color:#2ea44f;"><b>🏆 Competitive Programming</b></h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SimonaSingh?theme=dark&font=Fira%20Code&ext=contest" />
@@ -272,43 +272,39 @@
 
 ---
 
-### 🚀 Problem Solving Metrics
-
 <p align="center">
-  🔹 80+ LeetCode problems solved <br>
-  🔹 Consistent practice across Easy & Medium <br>
-  🔹 Actively improving Hard-level exposure <br>
-  🔹 Enhanced debugging speed & pattern recognition
+  <b style="color:#2ea44f;">💻 Problem Solving Journey</b><br><br>
+  80+ LeetCode problems solved • Strong focus on Easy & Medium <br>
+  Gradually exploring Hard problems • Improving debugging & speed
 </p>
 
 ---
 
-### 🧠 Patterns & Concepts Covered
-
 <p align="center">
-  Sliding Window • Two Pointers • Prefix Sum • Recursion & Backtracking <br>
-  Stack & Queue • Binary Search • Graph Traversals • Hashing <br>
-  Time & Space Complexity Optimization
+  <b style="color:#2ea44f;">🧠 Core Concepts</b><br><br>
+  Sliding Window • Two Pointers • Prefix Sum • Recursion <br>
+  Backtracking • Stack & Queue • Binary Search <br>
+  Graph Traversals • Hashing • Optimization Techniques
 </p>
 
 ---
 
-### 💡 How Competitive Programming Improves My Engineering
-
 <p align="center">
-  ⚡ Faster debugging under constraints <br>
-  🎯 Stronger edge-case detection <br>
-  🚀 Performance-aware backend logic <br>
-  🧩 Structured problem decomposition <br>
-  💪 Confidence in technical interviews
+  <b style="color:#2ea44f;">🚀 Engineering Impact</b><br><br>
+  Faster debugging under constraints ⚡ <br>
+  Better edge-case handling 🎯 <br>
+  Optimized backend thinking 🚀 <br>
+  Structured problem solving 🧩 <br>
+  Strong interview confidence 💪
 </p>
+<br>
 <br>
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+mastering+pipelines,+models,+and+dashboards.;But+will+my+code+ever+behave%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Future+scope:+To+become+a+skilled+Software+Development+Engineer+building+scalable+applications.;Always+learning,+always+improving." 
     alt="Sarcastic Question about Future Scope" 
   />
 </div>
