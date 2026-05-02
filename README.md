@@ -154,7 +154,7 @@
 <div align="right">
   <h3>Personal Portfolio 💻✨</h3>
   <p>
-    A fully responsive portfolio built with React, Tailwind CSS, and deployed on Netlify.  
+    A fully responsive portfolio built with HTML, Tailwind CSS, and deployed on Netlify.  
     Showcases projects, skills, and contact integration with clean UI/UX and smooth performance.  
     Looks clean… until you inspect the console 😏.
   </p>
