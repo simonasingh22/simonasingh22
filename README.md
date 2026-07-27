@@ -7,11 +7,11 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 # CHAPTER 01
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -108,11 +108,11 @@ Every deployment is a reminder that learning never stops.
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 # CHAPTER 02
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -281,11 +281,11 @@ Consistency compounds it.
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 # CHAPTER 03
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -555,53 +555,28 @@ A Laravel-powered travel booking platform focused on simplifying trip planning w
 
 <br>
 
-<div align="center">
-
-# CHAPTER 04
-
-</div>
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=4000&pause=1200&color=06B6D4&center=true&vCenter=true&width=950&height=120&lines=Code+tells+stories.;Data+proves+them."
-/>
-
-</div>
+<p align="center">
+  <img
+    src="./assets/dividers/chapter-04.svg"
+    width="100%"
+  />
+</p>
 
 <br>
 
-<div align="center">
 
-# 📊 The Numbers Behind the Journey
+<<div align="center">
+<!-- <div align="center">
 
-Every commit.
-
-Every contribution.
-
-Every repository.
-
-A snapshot of the engineering journey so far.
-
-</div>
-
----
-
-<br>
-
-## 📈 GitHub Overview
-
-<div align="center">
+# CHAPTER 04 -->
 
 <img
-height="185"
-src="https://github-readme-stats.vercel.app/api?username=simonasingh22&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=06B6D4&center=true&vCenter=true&width=850&height=90&lines=Every+commit+tells+a+story.;Consistency+turns+code+into+craft."
 />
 
-<img
-height="185"
-src="https://github-readme-streak-stats.herokuapp.com?user=simonasingh22&theme=github-dark-blue&hide_border=true"
-/>
+### **Measuring the Journey**
+
+*"Projects showcase what I've built. These metrics reflect how I continue to grow as an engineer."*
 
 </div>
 
@@ -609,14 +584,31 @@ src="https://github-readme-streak-stats.herokuapp.com?user=simonasingh22&theme=g
 
 ---
 
-## 🌎 Languages I Build With
+# 📊 Engineering Dashboard
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 <img
-height="185"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonasingh22&layout=compact&theme=github_dark&hide_border=true"
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=simonasingh22&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
 />
+
+</td>
+
+<td>
+
+<img
+height="180"
+src="https://streak-stats.demolab.com?user=simonasingh22&theme=github-dark-blue&hide_border=true"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -624,13 +616,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonasingh2
 
 ---
 
-## 📉 Contribution Activity
+# 🌍 Languages I Build With
 
 <div align="center">
 
 <img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=simonasingh22&theme=github-compact&hide_border=true"
+height="190"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonasingh22&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
 />
 
 </div>
@@ -639,12 +631,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=simonasingh2
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Timeline
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=simonasingh22&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=simonasingh22&theme=github-dark&hide_border=true"
 />
 
 </div>
@@ -653,20 +646,12 @@ src="https://github-profile-trophy.vercel.app/?username=simonasingh22&theme=algo
 
 ---
 
-## 👀 Profile Insights
+# 🏆 GitHub Achievements
 
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=simonasingh22&style=for-the-badge&color=10B981"
-/>
-
-<img
-src="https://img.shields.io/github/followers/simonasingh22?style=for-the-badge&color=06B6D4&label=Followers"
-/>
-
-<img
-src="https://img.shields.io/github/stars/simonasingh22?affiliations=OWNER&style=for-the-badge&color=0891B2&label=Stars"
+src="https://github-profile-trophy.vercel.app/?username=simonasingh22&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"
 />
 
 </div>
@@ -675,13 +660,71 @@ src="https://img.shields.io/github/stars/simonasingh22?affiliations=OWNER&style=
 
 ---
 
+# 👀 Community Snapshot
+
 <div align="center">
 
-## 💻 Beyond the Numbers
+<img
+src="https://komarev.com/ghpvc/?username=simonasingh22&label=Profile%20Views&style=for-the-badge&color=10B981"
+/>
+
+<img
+src="https://img.shields.io/github/followers/simonasingh22?label=Followers&style=for-the-badge"
+/>
+
+<img
+src="https://img.shields.io/github/stars/simonasingh22?style=for-the-badge"
+/>
 
 </div>
 
 <br>
+
+---
+
+# ⭐ Featured Repositories
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+
+<a href="https://github.com/simonasingh22/MuseBook">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=simonasingh22&repo=MuseBook&theme=github_dark&hide_border=true"
+/>
+
+</a>
+
+</td>
+
+<td>
+
+<a href="https://github.com/simonasingh22/Smart_task_schedular">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=simonasingh22&repo=Smart_task_schedular&theme=github_dark&hide_border=true"
+/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# 💻 Beyond the Numbers
+
+<div align="center">
 
 <table>
 
@@ -689,41 +732,33 @@ src="https://img.shields.io/github/stars/simonasingh22?affiliations=OWNER&style=
 
 <td align="center" width="25%">
 
-### 🚀
+### 🚀 Build
 
-**Building**
-
-Creating projects that solve practical problems.
+Every project is an opportunity to solve a real-world problem through thoughtful engineering.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🌱
+### 🌱 Learn
 
-**Learning**
-
-Exploring modern technologies one step at a time.
+Continuously exploring modern technologies and best practices to stay adaptable.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤝
+### 🤝 Collaborate
 
-**Collaborating**
-
-Sharing ideas and continuously improving.
+Open to learning from others, sharing ideas, and contributing to impactful projects.
 
 </td>
 
 <td align="center" width="25%">
 
-### 📈
+### 📈 Improve
 
-**Growing**
-
-Every project brings a new lesson.
+Each commit represents progress—not perfection.
 
 </td>
 
@@ -731,34 +766,28 @@ Every project brings a new lesson.
 
 </table>
 
+</div>
+
 <br>
 
 ---
 
 <div align="center">
 
-> **"Statistics don't define an engineer.**
+> ### *"Great software isn't built in one breakthrough.*
 >
-> **Consistency does."**
+> ### *It's built through thousands of small, consistent improvements."*
 
 </div>
 
 <br>
 
-<p align="center">
-  <img
-    src="./assets/dividers/chapter-05.svg"
-    width="100%"
-  />
-</p>
 
-<br>
-
-<div align="center">
+<!-- <div align="center">
 
 # CHAPTER 05
 
-</div>
+</div> -->
 
 <div align="center">
 
