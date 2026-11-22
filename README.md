@@ -73,7 +73,9 @@ I build practical web applications with a focus on clean interfaces, reliable ba
 
 <br/>
 
-<img src="assets/svg/experience-timeline.svg?v=2" width="100%" alt="Education and experience timeline"/>
+<img src="assets/svg/experience-timeline.svg?v=2"
+     width="100%"
+     alt="Education and experience timeline"/>
 
 
 <br/><br/>

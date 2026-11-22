@@ -1,9 +1,18 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="582" height="160" viewBox="0 0 582 160">
+  <rect x="1" y="1" width="580" height="158" rx="16"
+        fill="#0B1120" stroke="#22D3EE" stroke-opacity="0.75"/>
 
-<rect x="1" y="1" width="580" height="158" rx="16" fill="none" stroke="#22D3EE" stroke-opacity=".55"/>
-<rect x="22" y="22" width="7" height="112" rx="3" fill="#22D3EE"/>
-<text x="52" y="56" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="24" font-weight="700">CONSULTANCY & CRM</text>
-<text x="52" y="88" fill="#22D3EE" font-family="monospace" font-size="13">MERN STACK  ·  BUSINESS WORKFLOWS</text>
-<text x="52" y="119" fill="#94A3B8" font-family="Arial,sans-serif" font-size="16">Leads · Policies · Admin · Analytics</text>
+  <rect x="22" y="22" width="7" height="112" rx="3" fill="#22D3EE"/>
 
+  <text x="52" y="56" fill="#F8FAFC"
+        font-family="Arial, sans-serif" font-size="24"
+        font-weight="700">CONSULTANCY &amp; CRM</text>
+
+  <text x="52" y="88" fill="#67E8F9"
+        font-family="Arial, sans-serif" font-size="13"
+        letter-spacing="1">MERN STACK · BUSINESS WORKFLOWS</text>
+
+  <text x="52" y="119" fill="#CBD5E1"
+        font-family="Arial, sans-serif" font-size="16">Leads · Policies · Admin · Analytics</text>
 </svg>

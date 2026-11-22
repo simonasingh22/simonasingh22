@@ -1,13 +1,33 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="222" viewBox="0 0 1200 222">
+  <rect x="1" y="1" width="1198" height="220" rx="18"
+        fill="#0B1120" stroke="#64748B" stroke-opacity="0.55"/>
 
-<rect x="1" y="1" width="1198" height="220" rx="18" fill="none" stroke="#64748B" stroke-opacity=".35"/>
-<text x="42" y="43" fill="#A78BFA" font-family="monospace" font-size="14" letter-spacing="4">THE JOURNEY SO FAR</text>
-<path d="M100 112 H1090" stroke="#475569" stroke-width="3"/>
-<g font-family="Arial,sans-serif">
- <circle cx="160" cy="112" r="9" fill="#8B5CF6"/><text x="160" y="85" text-anchor="middle" fill="#E2E8F0" font-size="18" font-weight="700">2023 — 2027</text><text x="160" y="148" text-anchor="middle" fill="#CBD5E1" font-size="16">B.Tech CSE</text><text x="160" y="174" text-anchor="middle" fill="#94A3B8" font-size="14">Lovely Professional University</text>
- <circle cx="490" cy="112" r="9" fill="#22D3EE"/><text x="490" y="85" text-anchor="middle" fill="#E2E8F0" font-size="18" font-weight="700">2025</text><text x="490" y="148" text-anchor="middle" fill="#CBD5E1" font-size="16">Frontend Internship</text><text x="490" y="174" text-anchor="middle" fill="#94A3B8" font-size="14">CodeAlpha · Virtual</text>
- <circle cx="820" cy="112" r="9" fill="#8B5CF6"/><text x="820" y="85" text-anchor="middle" fill="#E2E8F0" font-size="18" font-weight="700">2025</text><text x="820" y="148" text-anchor="middle" fill="#CBD5E1" font-size="16">DSA Training</text><text x="820" y="174" text-anchor="middle" fill="#94A3B8" font-size="14">CipherSchools · Grade A</text>
- <circle cx="1090" cy="112" r="9" fill="#22D3EE"/><text x="1090" y="85" text-anchor="middle" fill="#E2E8F0" font-size="18" font-weight="700">NOW</text><text x="1090" y="148" text-anchor="middle" fill="#CBD5E1" font-size="16">Building & Learning</text><text x="1090" y="174" text-anchor="middle" fill="#94A3B8" font-size="14">Full-stack projects</text>
-</g>
+  <text x="42" y="43" fill="#C4B5FD"
+        font-family="Arial, sans-serif" font-size="14"
+        letter-spacing="4">THE JOURNEY SO FAR</text>
 
+  <path d="M100 112 H1090" stroke="#64748B" stroke-width="3"/>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="160" cy="112" r="9" fill="#A78BFA"/>
+    <text x="160" y="85" fill="#F8FAFC" font-size="18" font-weight="700">2023–2027</text>
+    <text x="160" y="148" fill="#E2E8F0" font-size="16">B.Tech CSE</text>
+    <text x="160" y="174" fill="#CBD5E1" font-size="14">Lovely Professional University</text>
+
+    <circle cx="490" cy="112" r="9" fill="#22D3EE"/>
+    <text x="490" y="85" fill="#F8FAFC" font-size="18" font-weight="700">2024</text>
+    <text x="490" y="148" fill="#E2E8F0" font-size="16">Frontend Internship</text>
+    <text x="490" y="174" fill="#CBD5E1" font-size="14">CodeAlpha · Virtual</text>
+
+    <circle cx="820" cy="112" r="9" fill="#A78BFA"/>
+    <text x="820" y="85" fill="#F8FAFC" font-size="18" font-weight="700">2025</text>
+    <text x="820" y="148" fill="#E2E8F0" font-size="16">DSA Training</text>
+    <text x="820" y="174" fill="#CBD5E1" font-size="14">CipherSchools · Grade A</text>
+
+    <circle cx="1090" cy="112" r="9" fill="#22D3EE"/>
+    <text x="1090" y="85" fill="#F8FAFC" font-size="18" font-weight="700">NOW</text>
+    <text x="1090" y="148" fill="#E2E8F0" font-size="16">Building &amp; Learning</text>
+    <text x="1090" y="174" fill="#CBD5E1" font-size="14">Full-stack projects</text>
+  </g>
 </svg>
