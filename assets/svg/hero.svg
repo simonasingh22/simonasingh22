@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+
+<defs>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+ <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".06"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="none" stroke="url(#line)" stroke-opacity=".55"/>
+<circle cx="1050" cy="30" r="180" fill="url(#orb)"/><circle cx="1100" cy="250" r="115" fill="url(#orb)"/>
+<path d="M0 245 C220 190 310 320 540 250 S900 190 1200 245" fill="none" stroke="url(#line)" stroke-opacity=".18" stroke-width="2"/>
+<text x="68" y="78" fill="#8B5CF6" font-family="monospace" font-size="17" letter-spacing="5">HELLO, WORLD — I'M</text>
+<text x="64" y="157" fill="currentColor" style="fill:#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700">Simona Singh</text>
+<text x="68" y="204" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="25">Full Stack Developer · CSE Undergraduate</text>
+<text x="68" y="250" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="17">React  /  Node.js  /  Express  /  MongoDB  /  JavaScript</text>
+<rect x="930" y="102" width="190" height="52" rx="26" fill="#8B5CF6" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".7"/>
+<text x="1025" y="135" text-anchor="middle" fill="#C4B5FD" font-family="monospace" font-size="16">OPEN TO WORK</text>
+<circle cx="956" cy="192" r="4" fill="#22D3EE"/><circle cx="980" cy="192" r="4" fill="#8B5CF6"/><circle cx="1004" cy="192" r="4" fill="#22D3EE"/>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152">
+
+<rect x="1" y="1" width="1198" height="150" rx="18" fill="none" stroke="#64748B" stroke-opacity=".35"/>
+<text x="44" y="56" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="30" font-weight="700">Have an idea worth building?</text>
+<text x="44" y="96" fill="#94A3B8" font-family="Arial,sans-serif" font-size="18">Let's connect, exchange ideas, and create something useful.</text>
+<rect x="920" y="48" width="220" height="54" rx="27" fill="#8B5CF6" fill-opacity=".16" stroke="#A78BFA"/>
+<text x="1030" y="82" text-anchor="middle" fill="#DDD6FE" font-family="Arial,sans-serif" font-size="17" font-weight="600">LET'S CONNECT ↗</text>
+
+</svg>

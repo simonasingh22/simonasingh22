@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175">
+
+<rect x="1" y="1" width="1198" height="172" rx="18" fill="none" stroke="#64748B" stroke-opacity=".35"/>
+<text x="42" y="48" fill="#A78BFA" font-family="monospace" font-size="14" letter-spacing="4">ENGINEERING PHILOSOPHY</text>
+<text x="42" y="96" fill="#F1F5F9" font-family="Arial,sans-serif" font-size="29" font-weight="600">Build thoughtfully. Solve practically. Keep learning.</text>
+<text x="42" y="135" fill="#94A3B8" font-family="Arial,sans-serif" font-size="18">I care about useful products, maintainable code, and the details that make software feel complete.</text>
+<path d="M1040 40 L1100 40 L1130 70 L1130 130 L1070 130 L1040 100 Z" fill="none" stroke="#22D3EE" stroke-opacity=".65" stroke-width="2"/>
+<path d="M1060 62 L1110 62 M1060 82 L1110 82 M1060 102 L1090 102" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="582" height="160" viewBox="0 0 582 160">
+
+<rect x="1" y="1" width="580" height="158" rx="16" fill="none" stroke="#F59E0B" stroke-opacity=".55"/>
+<rect x="22" y="22" width="7" height="112" rx="3" fill="#F59E0B"/>
+<text x="52" y="56" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="24" font-weight="700">MUSEBOOK</text>
+<text x="52" y="88" fill="#F59E0B" font-family="monospace" font-size="13">PHP  ·  MYSQL  ·  RAZORPAY</text>
+<text x="52" y="119" fill="#94A3B8" font-family="Arial,sans-serif" font-size="16">Museum · Tickets · Authentication</text>
+
+</svg>
