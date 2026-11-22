@@ -73,7 +73,8 @@ I build practical web applications with a focus on clean interfaces, reliable ba
 
 <br/>
 
-<img src="assets/svg/experience-timeline.svg?v=1" width="100%" alt="Education and experience timeline"/>
+<img src="assets/svg/experience-timeline.svg?v=2" width="100%" alt="Education and experience timeline"/>
+
 
 <br/><br/>
 
@@ -89,7 +90,7 @@ I build practical web applications with a focus on clean interfaces, reliable ba
   <a href="https://github.com/simonasingh22/Bus-Booking-Management-System">View repository →</a>
 </td>
 <td width="50%" valign="top">
-  <img src="assets/svg/projects/consultancy.svg?v=1" width="100%" alt="Consultancy Website"/>
+<img src="assets/svg/projects/consultancy.svg?v=2" width="100%" alt="Consultancy Website"/>
   <h3>🏢 Consultancy Website</h3>
   <p>Full-stack MERN CRM and consultancy platform for industrial subsidy management, compliance services, lead tracking, policy administration, and content publishing.</p>
   <p><strong>Stack:</strong> React · Node.js · Express · MongoDB</p>
@@ -133,7 +134,7 @@ I build practical web applications with a focus on clean interfaces, reliable ba
 </table>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/simonasingh22?theme=dark&font=Inter&ext=heatmap" alt="LeetCode statistics" />
+  <img src="https://leetcard.jacoblin.cool/SimonaSingh?theme=dark&font=Inter&ext=heatmap" alt="LeetCode statistics" />
 </p>
 
 <br/>
@@ -149,7 +150,7 @@ I build practical web applications with a focus on clean interfaces, reliable ba
 
 <br/>
 
-<img src="assets/svg/brand-identity.svg?v=1" width="100%" alt="Let's build something meaningful"/>
+<img src="" width="100%" alt="Let's build something meaningful"/>
 
 <p align="center">
   <a href="mailto:singhmona3552@gmail.com"><img src="assets/svg/nav/email.svg" height="38" alt="Email"/></a>
