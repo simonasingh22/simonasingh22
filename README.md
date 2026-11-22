@@ -143,16 +143,19 @@ I build practical web applications with a focus on clean interfaces, reliable ba
 
 ## &nbsp; Certifications & Learning
 
-- Oracle Cloud Infrastructure — AI Foundations Associate
-- Oracle Data Platform Foundations Associate
-- Deloitte Technology Job Simulation
-- HackerRank — SQL (Intermediate)
-- CipherSchools — Data Structures & Algorithms Trainee
-- CodeAlpha — Frontend Development Virtual Internship
+  Naukri Campus Young Turks 2026 — Scored 94.88 Percentile (National-Level Skills Competition)<br/>
+  Oracle Cloud Infrastructure — AI Foundations Associate<br/>
+  Oracle Data Platform Foundations Associate<br/>
+  Deloitte Technology Job Simulation<br/>
+  HackerRank — SQL (Intermediate)<br/>
+  CipherSchools — Data Structures &amp; Algorithms Trainee<br/>
+  CodeAlpha — Frontend Development Virtual Internship
 
 <br/>
 
-<img src="" width="100%" alt="Let's build something meaningful"/>
+<img src="assets/svg/brand-identity.svg?v=2"
+     width="100%"
+     alt="Let's build something meaningful"/>
 
 <p align="center">
   <a href="mailto:singhmona3552@gmail.com"><img src="assets/svg/nav/email.svg" height="38" alt="Email"/></a>
