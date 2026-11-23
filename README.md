@@ -36,7 +36,7 @@ const simona = {
   primaryStack: ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
   languages: ["C++", "JavaScript", "Python", "Java", "PHP"],
   focus: ["Full-stack engineering", "REST APIs", "Problem solving"],
-  currentlyBuilding: "MarketMinds",
+  currentlyBuilding: "Bus Booking Management System",
   openTo: ["Software Engineering Internships", "Full Stack Roles"]
 };
 ```
